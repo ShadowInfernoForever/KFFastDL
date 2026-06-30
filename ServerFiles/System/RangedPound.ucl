@@ -1,0 +1,1 @@
+Mutator=(ClassName=RangedPound.MutRangedPound,GroupName=KF-MonsterMut,IconMaterialName=MutatorArt.nosym,FriendlyName=RangedPound.MutRangedPound.FriendlyName,Description=RangedPound.MutRangedPound.Description,FriendlyName=RangedPound.MutRangedPound.FriendlyName,FallbackName="Ranged Fleshpounds",FallbackDesc="Regular Fleshpounds are replaced with their Chaingun variant. Have fun!")
